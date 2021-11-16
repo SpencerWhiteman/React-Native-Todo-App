@@ -1,7 +1,12 @@
 {
   "expo": {
-    "name": "todoList",
+    "name": "Spencers List",
     "slug": "todoList",
+    "icon": "./path/to/your/app-icon.png",
+    "ios": {
+      "bundleIdentifier": "com.yourcompany.yourappname",
+      "buildNumber": "1.0.0"
+    },
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
